@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="amount">Amount</string>
+    <string name="converted_amount">Converted Amount</string>
+    <string name="no_rate_available">No rate available</string>
+    <string name="edit_currency_list">Edit Currency List</string>
+    <string name="desc">Qure AI Currency Converter</string>
+    <!-- Get country flag from https://flagpedia.net -->
+    <string name="flag_url">
+        https://flagcdn.com/w80/%s.png
+    </string>
+</resources>

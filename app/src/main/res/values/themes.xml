@@ -1,0 +1,12 @@
+<resources >
+    <style name="Theme.CurrencyConverter" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="Theme.CurrencyConverter.NoActionBar" parent="Theme.CurrencyConverter">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
